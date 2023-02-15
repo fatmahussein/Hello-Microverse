@@ -52,10 +52,7 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-
 - **[Linter-Config]**
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,7 +66,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-1. Set-up linters in your local environment
+## Set-up linters in your local env
 
 The `npm` package manager is going to create a `node_modules` directory to install all of your dependencies. You shouldn't commit that directory. To avoid that, you can create a [`.gitignore`](https://git-scm.com/docs/gitignore) file and add `node_modules` to it:
 
@@ -210,7 +207,7 @@ I would like to thank Microverse for guiding me through this project.
 
 - **[What are linters? ]**
 
-  - [ a linter is a tool to help you improve your code by analyzing your source code looking for problems]
+  -  a linter is a tool to help you improve your code by analyzing your source code looking for problems.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
